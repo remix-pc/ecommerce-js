@@ -3,8 +3,8 @@ var db = require('knex')({
     connection: {
         host: '127.0.0.1',
         user: 'root',
-        password: 'passwordHere',
-        database: 'user'
+        password: 'passWordHere',
+        database: 'ecommerce'
     }
 
 })

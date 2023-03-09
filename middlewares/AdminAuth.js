@@ -1,0 +1,1 @@
+//Aqui ficará o Express Session para verificar sempre se o Usuário é um administraodr
